@@ -8,5 +8,5 @@ def square_array(array)
 end
 
 #def square_array(array)
-#  array.collect{|index| index*index}
+#  array.collect{|index| index**2}
 #end
